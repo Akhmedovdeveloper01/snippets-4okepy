@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Akhmedovdeveloper01.github.io/snippets-4okepy/sitemap.xml
